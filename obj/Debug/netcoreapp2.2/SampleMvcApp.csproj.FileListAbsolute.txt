@@ -1,0 +1,68 @@
+\\Mac\Home\Downloads\quickstart 2\01-login\bin\Debug\netcoreapp2.2\web.config
+\\Mac\Home\Downloads\quickstart 2\01-login\bin\Debug\netcoreapp2.2\appsettings.json
+\\Mac\Home\Downloads\quickstart 2\01-login\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+\\Mac\Home\Downloads\quickstart 2\01-login\bin\Debug\netcoreapp2.2\SampleMvcApp.deps.json
+\\Mac\Home\Downloads\quickstart 2\01-login\bin\Debug\netcoreapp2.2\SampleMvcApp.runtimeconfig.json
+\\Mac\Home\Downloads\quickstart 2\01-login\bin\Debug\netcoreapp2.2\SampleMvcApp.runtimeconfig.dev.json
+\\Mac\Home\Downloads\quickstart 2\01-login\bin\Debug\netcoreapp2.2\SampleMvcApp.dll
+\\Mac\Home\Downloads\quickstart 2\01-login\bin\Debug\netcoreapp2.2\SampleMvcApp.pdb
+\\Mac\Home\Downloads\quickstart 2\01-login\bin\Debug\netcoreapp2.2\SampleMvcApp.Views.dll
+\\Mac\Home\Downloads\quickstart 2\01-login\bin\Debug\netcoreapp2.2\SampleMvcApp.Views.pdb
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.RazorAssemblyInfo.cache
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.RazorAssemblyInfo.cs
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.AssemblyInfo.cs
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.TagHelpers.input.cache
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.TagHelpers.output.cache
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.RazorCoreGenerate.cache
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.cshtml.g.cs
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\Razor\Views\Account\Claims.cshtml.g.cs
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.RazorTargetAssemblyInfo.cs
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.Views.pdb
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.dll
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.pdb
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.genruntimeconfig.cache
+\\Mac\Home\Downloads\quickstart 2\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.csproj.CopyComplete
+\\Mac\Home\Documents\01-login\bin\Debug\netcoreapp2.2\web.config
+\\Mac\Home\Documents\01-login\bin\Debug\netcoreapp2.2\appsettings.json
+\\Mac\Home\Documents\01-login\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+\\Mac\Home\Documents\01-login\bin\Debug\netcoreapp2.2\SampleMvcApp.deps.json
+\\Mac\Home\Documents\01-login\bin\Debug\netcoreapp2.2\SampleMvcApp.runtimeconfig.json
+\\Mac\Home\Documents\01-login\bin\Debug\netcoreapp2.2\SampleMvcApp.runtimeconfig.dev.json
+\\Mac\Home\Documents\01-login\bin\Debug\netcoreapp2.2\SampleMvcApp.dll
+\\Mac\Home\Documents\01-login\bin\Debug\netcoreapp2.2\SampleMvcApp.pdb
+\\Mac\Home\Documents\01-login\bin\Debug\netcoreapp2.2\SampleMvcApp.Views.dll
+\\Mac\Home\Documents\01-login\bin\Debug\netcoreapp2.2\SampleMvcApp.Views.pdb
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.csprojAssemblyReference.cache
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.RazorAssemblyInfo.cache
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.RazorAssemblyInfo.cs
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.AssemblyInfo.cs
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.TagHelpers.input.cache
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.TagHelpers.output.cache
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.RazorCoreGenerate.cache
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.cshtml.g.cs
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\Razor\Views\Account\Claims.cshtml.g.cs
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.RazorTargetAssemblyInfo.cache
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.RazorTargetAssemblyInfo.cs
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.Views.pdb
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.dll
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.pdb
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.genruntimeconfig.cache
+\\Mac\Home\Documents\01-login\obj\Debug\netcoreapp2.2\SampleMvcApp.csproj.CopyComplete
